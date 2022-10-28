@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "STM32F030")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/STM32F030C6T6/KiCad")(options "")(descr ""))
+  (lib (name "Switch_430156043736")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/LIB_430156043736_Przycisk_TactSwitch/430156043736/KiCad")(options "")(descr ""))
+)

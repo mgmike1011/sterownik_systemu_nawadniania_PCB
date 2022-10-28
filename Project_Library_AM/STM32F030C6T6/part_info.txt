@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32F030C6T6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=48
+Version=4.1
+Released=2015-06-16 02:24:46
+Downloaded=2022-10-28 16:13:11
+3D=Y

@@ -1,0 +1,137 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "430156043736"
+   (description "Pink Tactile Tactile Switch, NO 50 mA 0.9mm Through Hole")
+   (family "SWI")
+   (package "430156043736")
+   (attribute "Datasheet Link" "")
+   (attribute "Geometry.Height" "4.45mm")
+   (attribute "Mouser Part Number" "710-430156043736")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/430156043736?qs=wr8lucFkNMX8wnPArYa4oQ%3D%3D")
+   (attribute "Manufacturer_Name" "Wurth Elektronik")
+   (attribute "Manufacturer_Part_Number" "430156043736")
+   (gate
+    (symbol "430156043736")
+    (pin "COM_1" 1 PS)
+    (pin "NO_1" 2 PS)
+    (pin "COM_2" 3 PS)
+    (pin "NO_2" 4 PS)
+   )
+  )
+  (symbol "430156043736"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1200 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "430156043736"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 0.15 0.85)
+      (pt 6.35 0.85)
+      (pt 6.35 -5.35)
+      (pt 0.15 -5.35)
+      (pt 0.15 0.85))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.35 1.85)
+      (pt 8.25 1.85)
+      (pt 8.25 -6.35)
+      (pt -2.35 -6.35)
+      (pt -2.35 1.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 0.75 0.85)
+      (pt 5.75 0.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 0.75 -5.35)
+      (pt 5.75 -5.35))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 0.15 -1.25)
+      (pt 0.15 -3.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 6.35 -1.25)
+      (pt 6.35 -3.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.3)
+     (path
+      (closed true)
+      (pt -1.25 0.75)
+      (arc (pt -1.250 0.750) (pt -1.350 0.700) (pt -1.250 0.800) (start 180.0) (sweep .0))
+      (pt -1.35 0.75)
+      (arc (pt -1.350 0.750) (pt -1.350 0.700) (pt -1.250 0.800) (start 180.0) (sweep 180.0))
+      (pt -1.25 0.75))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 0.000 -4.500) (padstack 0))
+   (leg 3 (pt 6.500 0.000) (padstack 0))
+   (leg 4 (pt 6.500 -4.500) (padstack 0))
+   (padstack 0
+    (hole 1)
+    (plated true)
+    (pad (layer TCOP) (round 1.500))
+    (pad (layer INNER) (round 1.500))
+    (pad (layer BCOP) (round 1.500))
+   )
+   (model "430156043736.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

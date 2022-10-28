@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32F030C6T6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32F030C6T6" (!) = "", "QFP50P900X900X160-48N", "Quad Flat Packages", "511-STM32F030C6T6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F030C6T6?qs=eyrSuY1LhL2a7Sjc1R1%252Bew%3D%3D", "32-Bit MCU Cortex-M0 32KB Flash LQFP48 STM32F030C6T6, 32 bit ARM Cortex M0 Microcontroller 48MHz 32 kB Flash, 4 kB RAM, I2C 48-Pin LQFP", "http://www.st.com/web/en/resource/technical/document/datasheet/DM00088500.pdf", "1.6 mm"
+END_PART
+
+END.

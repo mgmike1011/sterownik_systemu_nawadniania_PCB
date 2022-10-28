@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '430156043736'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Wurth Elektronik", "430156043736" (!) = "", "430156043736", "Other", "710-430156043736", "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/430156043736?qs=wr8lucFkNMX8wnPArYa4oQ%3D%3D", "Pink Tactile Tactile Switch, NO 50 mA 0.9mm Through Hole", "", "4.45 mm"
+END_PART
+
+END.

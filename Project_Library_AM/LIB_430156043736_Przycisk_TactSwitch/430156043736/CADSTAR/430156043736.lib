@@ -1,0 +1,16 @@
+.430156043736 :1 ;Pink Tactile Tactile Switch, NO 50 mA 0.9mm Through Hole
+"430156043736"
+*STM S
+*NGS
+*PLB 1="COM_1" 2="NO_1" 3="COM_2" 4="NO_2"
+*MXP 4
+*DFN 430156043736
+~!Mouser Part Number (710-430156043736)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/430156043736?qs=wr8lucFkNMX8wnPArYa4oQ%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (430156043736)
+~!Link Datasheet (-)
+~!Height (4.45mm)
+~!3D_Model (430156043736)
+"430156043736"
+1.1!U 2.1!U 3.1!U 4.1!U 
