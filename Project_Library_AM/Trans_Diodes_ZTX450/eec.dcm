@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ZTX450
+D ZTX450
+F https://www.diodes.com/assets/Datasheets/ZTX450.pdf
+$ENDCMP
+# end doc library
