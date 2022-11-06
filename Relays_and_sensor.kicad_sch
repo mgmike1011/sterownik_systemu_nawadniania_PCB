@@ -1,0 +1,19 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 29a18974-b418-4be7-96bb-c8a39665e6f2)
+
+  (paper "A4")
+
+  (title_block
+    (title "Sterownik systemu nawadniania")
+    (date "11.2022")
+    (rev "1.0")
+    (company "Agnieszka Piórkowska, Miłosz Gajewski")
+    (comment 1 "Projektowanie układów elektrycznych i elektronicznych")
+    (comment 2 "Laboratoria")
+  )
+
+  (lib_symbols
+  )
+
+)

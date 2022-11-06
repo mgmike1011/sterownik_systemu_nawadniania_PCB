@@ -1,4 +1,7 @@
 (sym_lib_table
   (lib (name "STM32F030C6T6")(type "Legacy")(uri "${KIPRJMOD}/Project_Library_AM/STM32F030C6T6/KiCad/STM32F030C6T6.lib")(options "")(descr ""))
   (lib (name "430156043736")(type "Legacy")(uri "${KIPRJMOD}/Project_Library_AM/LIB_430156043736_Przycisk_TactSwitch/430156043736/KiCad/430156043736.lib")(options "")(descr ""))
+  (lib (name "eec")(type "Legacy")(uri "${KIPRJMOD}/Project_Library_AM/IC_Texas Instruments_LMR50410XDBVR/eec.lib")(options "")(descr ""))
+  (lib (name "CON-SOCJ-2155")(type "Legacy")(uri "${KIPRJMOD}/Project_Library_AM/CON-SOCJ-2155/CON-SOCJ-2155.lib")(options "")(descr ""))
+  (lib (name "eec2")(type "Legacy")(uri "${KIPRJMOD}/Project_Library_AM/Switch_Apem Inc._25336NA/eec2.lib")(options "")(descr ""))
 )
