@@ -1,4 +1,9 @@
 (fp_lib_table
   (lib (name "STM32F030")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/STM32F030C6T6/KiCad")(options "")(descr ""))
   (lib (name "Switch_430156043736")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/LIB_430156043736_Przycisk_TactSwitch/430156043736/KiCad")(options "")(descr ""))
+  (lib (name "1N4007G")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/1N4007G")(options "")(descr ""))
+  (lib (name "CON-SOCJ-2155")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/CON-SOCJ-2155")(options "")(descr ""))
+  (lib (name "IC_Texas Instruments_LMR50410XDBVR")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/IC_Texas Instruments_LMR50410XDBVR")(options "")(descr ""))
+  (lib (name "LIB_430156043736_Przycisk_TactSwitch")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/LIB_430156043736_Przycisk_TactSwitch")(options "")(descr ""))
+  (lib (name "Trans_Diodes_ZTX450")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/Trans_Diodes_ZTX450")(options "")(descr ""))
 )
