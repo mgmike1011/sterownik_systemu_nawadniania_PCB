@@ -5415,6 +5415,18 @@
     (path "/4bca8925-5b40-4b9d-9620-552f84d5d993"
       (reference "#PWR065") (unit 1) (value "GND") (footprint "")
     )
+    (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/11a09a81-c191-450b-a881-eeaa483fa017"
+      (reference "#PWR066") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/c37fa81b-ee07-4812-bd9f-8c36aa4dd7e5"
+      (reference "#PWR067") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/4f740313-8334-4fe3-8d24-dc63ad09de03"
+      (reference "#PWR068") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/a342a471-a8d9-4cec-b4a5-f5f1d4e166d7"
+      (reference "#PWR069") (unit 1) (value "GND") (footprint "")
+    )
     (path "/d5bb953d-e904-4dbd-a774-cd0eb5af773e"
       (reference "#PWR0101") (unit 1) (value "+24V") (footprint "")
     )
@@ -5562,6 +5574,9 @@
     (path "/c7c3e192-9490-4e86-acb9-549b9dec4b33"
       (reference "R4") (unit 1) (value "1k") (footprint "")
     )
+    (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/4a6abadd-be4e-4971-ba01-96c38b82126f"
+      (reference "R5") (unit 1) (value "220") (footprint "")
+    )
     (path "/34a2c40f-7d29-4705-9cda-64f123add787"
       (reference "R6") (unit 1) (value "1.5k") (footprint "")
     )
@@ -5631,6 +5646,15 @@
     (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/862498d4-f439-47f1-a978-9a43f3b560f9"
       (reference "R28") (unit 1) (value "220") (footprint "")
     )
+    (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/29ff940c-ae1d-42ae-be4a-011e2b81c70b"
+      (reference "R29") (unit 1) (value "220") (footprint "")
+    )
+    (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/55c1c87e-757e-4647-a6c6-2d574e5ba05e"
+      (reference "R30") (unit 1) (value "220") (footprint "")
+    )
+    (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/49f0564c-6edb-43b0-bb3e-79053fb5175a"
+      (reference "R31") (unit 1) (value "220") (footprint "")
+    )
     (path "/ba2263c8-b673-4906-a6ad-a1fd9ac8b90e"
       (reference "RV1") (unit 1) (value "R_Potentiometer") (footprint "")
     )
@@ -5660,6 +5684,18 @@
     )
     (path "/42ce5771-540c-473d-a62a-12b595923381"
       (reference "U2") (unit 1) (value "LMR50410XDBVR") (footprint "Texas_Instruments-DBV0006A-0-0-*")
+    )
+    (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/b6ec029a-74c7-41a1-a2ab-2ace25ab0d1f"
+      (reference "U3") (unit 1) (value "LTV-844") (footprint "Package_DIP:DIP-16_W7.62mm")
+    )
+    (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/47687268-acc7-44c4-bc84-407b7872146f"
+      (reference "U3") (unit 2) (value "LTV-844") (footprint "Package_DIP:DIP-16_W7.62mm")
+    )
+    (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/a06b4ce9-625c-4b7c-a650-ca0f838a004c"
+      (reference "U3") (unit 3) (value "LTV-844") (footprint "Package_DIP:DIP-16_W7.62mm")
+    )
+    (path "/40474f4f-d3ba-4b7e-8552-7edd7400a511/89159211-faa7-47fb-bf2f-8c254cd17a97"
+      (reference "U3") (unit 4) (value "LTV-844") (footprint "Package_DIP:DIP-16_W7.62mm")
     )
     (path "/1f04041d-750f-48c1-9e32-903ed841904c"
       (reference "Y1") (unit 1) (value "Crystal") (footprint "")
