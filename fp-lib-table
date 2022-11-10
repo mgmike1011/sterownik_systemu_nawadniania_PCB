@@ -6,4 +6,5 @@
   (lib (name "IC_Texas Instruments_LMR50410XDBVR")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/IC_Texas Instruments_LMR50410XDBVR")(options "")(descr ""))
   (lib (name "LIB_430156043736_Przycisk_TactSwitch")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/LIB_430156043736_Przycisk_TactSwitch")(options "")(descr ""))
   (lib (name "Trans_Diodes_ZTX450")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/Trans_Diodes_ZTX450")(options "")(descr ""))
+  (lib (name "ul_RLB0712-120KL")(type "KiCad")(uri "${KIPRJMOD}/Project_Library_AM/ul_RLB0712-120KL/KiCAD/2022-11-10_05-53-49/footprints.pretty")(options "")(descr ""))
 )
